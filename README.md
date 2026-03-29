@@ -8,7 +8,7 @@
 ## 🇺🇸 English
 
 # Geopolitical Oil Market Simulator 🛢️🌐
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jairtarrilloecon/geopolitical-oil-crisis-simulator/main?filepath=notebooks%2F02_simulador_mercado_petroleo.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jairtarrilloecon/geopolitical-oil-crisis-simulator/main?filepath=02_simulador_mercado_petroleo.ipynb)
 
 **A Python-based macroeconomic model predicting global crude oil price shocks driven by geopolitical disruptions in the Strait of Hormuz.**
 
@@ -38,7 +38,7 @@ The global economy operates on an inelastic demand for crude oil (~104.8 mb/d). 
 ## 🇪🇸 Español
 
 # Simulador de Crisis Petrolera Geopolítica 🛢️🌐
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jairtarrilloecon/geopolitical-oil-crisis-simulator/main?filepath=notebooks%2F02_simulador_mercado_petroleo.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jairtarrilloecon/geopolitical-oil-crisis-simulator/main?filepath=02_simulador_mercado_petroleo.ipynb)
 
 **Un modelo macroeconómico en Python para predecir shocks en el precio global del crudo generados por interrupciones en el Estrecho de Ormuz.**
 
